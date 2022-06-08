@@ -1,5 +1,5 @@
 ### About me:
-I am a Data Science and Analytics student from Brazil.
+I am a Data Science student from Brazil.
 
 Contact me at felipeaom@gmail.com
 <!--
